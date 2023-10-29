@@ -9,11 +9,7 @@ mainpitch:
   description: Discourse, social psychology, exclusion
 description: More to come
 intro:
-  blurbs:
-    - image: /img/dscf3274.jpg
-      text: Work
-    - image: /img/dscf4092.jpg
-      text: More work
+  blurbs: []
   heading: Research highlights
   description: |
     TBC
