@@ -21,10 +21,10 @@ main:
     image: /img/dscf5736.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/apple-touch-icon.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: not yet
+    image: /img/me2.jpg
 testimonials: []
 full_image: /img/dscf5040.jpg
 pricing:
